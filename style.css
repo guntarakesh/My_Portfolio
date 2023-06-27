@@ -23,6 +23,7 @@ html {
     scroll-behavior: smooth;
 }
 
+
 body {
     background-color: rgb(19, 35, 42);
     color: white;
@@ -629,10 +630,11 @@ section {
     }
     #contact {
         height:220px;
-        font-size:18px;
+        font-size:15px;
         flex-direction: column;
         justify-content: space-around;
         background-color: rgb(24, 40, 46);
+        margin:0 3px;
     }
     .rpExperience ul li{
          font-size:20px;
